@@ -18,9 +18,16 @@
 
 ❗ 仅支持 **Web 创建的机器（PellaFree）** ❗ 不支持 API / 其他来源创建的实例
 
-## 📝 注册地址
+注册网址：https://www.pella.app/
 
-👉 [https://www.pella.app/](https://www.pella.app/)
+点击 SIGN UP 注册
+
+**注册账号注意：谷歌Gmail邮箱使用邮箱+密码注册，续期脚本要用密码，不要使用关联账号注册，一旦注册，不可更改，不可删除**
+
+登录页面后选择：Web App 分类，，接着选择 Flask 类型，这个就是python架构，，接着源代码上传可以暂时留空，继续Continue，，接着选free计划，开启容器，上传本项目文件，运行容器
+
+部署方法前往该项目：[https://github.com/liuhuig/PellaFree-pro](https://github.com/liuhuig/Sing-box-Argo-Python)
+
 
 ## 🚀 部署方式
 
