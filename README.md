@@ -26,7 +26,7 @@
 
 登录页面后选择：Web App 分类，，接着选择 Flask 类型，这个就是python架构，，接着源代码上传可以暂时留空，继续Continue，，接着选free计划，开启容器，上传本项目文件，运行容器
 
-节点部署方法前往该项目：[https://github.com/liuhuig/PellaFree-pro](https://github.com/liuhuig/Sing-box-Argo-Python)
+节点部署方法前往该项目：https://github.com/liuhuig/Sing-box-Argo-Python
 
 
 ## 🚀 部署方式
